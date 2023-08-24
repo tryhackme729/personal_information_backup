@@ -8,3 +8,5 @@ PersonalBackupEncrypted20230624 has no data integrity, because it is a Veracrypt
 don't change alot, so the hash is computed, and the results are stored in LONG-PASSWORD-keepass.kbdx.
 I will confirm the contents of PersonalBackupEncrypted20230624 manually with a hash calculator everytime I download from GitHub.
 The password to this GitHub account is stored in LONG-PASSWORD-keepass.kbdx.
+
+4. PersonalBackupEncrypted20230624 uses an independent password not in my Keepass database.
